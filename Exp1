@@ -10,3 +10,5 @@ print(a or b)
 
 # Print not a is False
 print(not a)
+
+print("hello")
